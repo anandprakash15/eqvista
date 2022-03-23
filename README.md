@@ -8,24 +8,20 @@ System requirements:
 ```
 
 ##Intro
-You're now going to participate in a short coding test to evaluate your ability to think logically, to work independently with a given situation and/or environment and develop with a smart, goal-oriented approach.
+The requirement is to store vital information such as the date the member joined the club and
+their contact details. Each game is a head-to-head match between two players where each
+player keeps a log of his games, showing whether he won or not, how many moves he made,
+which color he played.
 
 ##Task
-You need to create a simple CRUD for online orders. The orders should have (but not limited to) the following attributes:
-```
-- User identifier
-- Order items (multiple values are possible)
-- Subtotal amount
-- Shipping amount
-- Total amount
-- Notes
-- Delivery date
-- Payment method
-- Status
+A member’s profile screen shows their
+● number of wins.
+● number of losses.
+● ratio of wins when played white vs. black figures.
+● their best game – considering the player won in the least possible number of moves
 ```
 
 ##Hints
-- Try to not spend more than 1 hour to complete the task
-- Make sure everything you've implemented works as expected
+The aim of this task is to better understand your thinking processes and experience. 
 "# eqvista" 
 # eqvista
