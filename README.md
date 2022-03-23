@@ -1,4 +1,4 @@
-#Fruitful Day Coding Test Task
+#Eqvista Test Task
 
 ##Setup
 System requirements:
